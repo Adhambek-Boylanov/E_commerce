@@ -22,7 +22,7 @@ media/
 staticfiles/
 
 # Environment variables (maxfiy fayllar)
-.env
+prod.env
 .env.*
 *.env.local
 
